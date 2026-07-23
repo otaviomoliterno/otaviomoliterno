@@ -93,7 +93,7 @@ Uma solução criada para centralizar informações, melhorar processos internos
 
 ---
 
-# Estatísticas do GitHub
+[# Estatísticas do GitHub
 
 <div align="center">
 
@@ -101,7 +101,7 @@ Uma solução criada para centralizar informações, melhorar processos internos
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviomoliterno&layout=compact&theme=tokyonight&count_private=true"/>
 
-</div>
+</div>](https://raw.githubusercontent.com/otaviomoliterno/otaviomoliterno/output/github-snake.svg)
 
 
 
