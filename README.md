@@ -93,25 +93,15 @@ Uma solução criada para centralizar informações, melhorar processos internos
 
 ---
 
-# Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=otaviomoliterno&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=otaviomoliterno&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=otaviomoliterno&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
 
-# Atividade
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/otaviomoliterno/otaviomoliterno/output/github-snake.svg">
-</p>
-
----
 
 # Atualmente desenvolvendo
 
