@@ -161,7 +161,9 @@ Mantendo sempre revisão técnica, entendimento da solução e qualidade do soft
 
 <div align="center">
 
-<img src="https://github.com/otaviomoliterno/otaviomoliterno/blob/output/github-snake.svg">
+<p align="center">
+<img src="https://raw.githubusercontent.com/otaviomoliterno/otaviomoliterno/output/github-snake.svg">
+</p>
 
 </div>
 
