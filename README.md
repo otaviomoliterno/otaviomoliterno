@@ -161,9 +161,13 @@ Mantendo sempre revisão técnica, entendimento da solução e qualidade do soft
 
 <div align="center">
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/otaviomoliterno/otaviomoliterno/output/github-snake.svg">
-</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/otaviomoliterno/otaviomoliterno/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otaviomoliterno/otaviomoliterno/output/github-snake.svg">
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/otaviomoliterno/otaviomoliterno/output/github-snake.svg">
+</picture>
+
 
 </div>
 
