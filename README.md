@@ -2,7 +2,8 @@
 
 <div align="center">
 
-Desenvolvedor Full Stack focado na criação de aplicações web, sistemas SaaS e soluções empresariais.
+Desenvolvedor Full Stack focado na criação de aplicações web,
+sistemas SaaS e soluções empresariais.
 
 Construindo produtos digitais com foco em:
 
@@ -21,7 +22,7 @@ Minha atuação envolve criação de sistemas completos, desde a concepção da 
 Atualmente trabalho principalmente com:
 
 - Desenvolvimento backend utilizando PHP e Laravel
-- Banco de dados relacionais
+- Bancos de dados relacionais
 - Sistemas SaaS multiusuário
 - Integração de APIs
 - Automação de processos
@@ -29,7 +30,7 @@ Atualmente trabalho principalmente com:
 
 ---
 
-## Tecnologias e ferramentas
+# Tecnologias e ferramentas
 
 <div align="center">
 
@@ -45,16 +46,16 @@ Atualmente trabalho principalmente com:
 
 Sistema SaaS de gerenciamento financeiro pessoal.
 
-Uma plataforma desenvolvida para auxiliar usuários no controle, organização e análise da sua vida financeira através de uma interface simples e dados estratégicos.
+Uma plataforma desenvolvida para auxiliar usuários no controle, organização e análise da vida financeira através de informações estratégicas.
 
 ### Principais recursos:
 
 - Controle de receitas e despesas
 - Dashboard financeiro
-- Análise de indicadores
+- Indicadores financeiros
 - Organização de movimentações
 - Importação de dados financeiros
-- Relatórios e informações analíticas
+- Relatórios analíticos
 
 ### Tecnologias:
 
@@ -70,7 +71,7 @@ Uma plataforma desenvolvida para auxiliar usuários no controle, organização e
 
 Sistema SaaS voltado para gestão jurídica e organização de escritórios de advocacia.
 
-Uma solução criada para centralizar informações, melhorar processos internos e aumentar a produtividade através da digitalização das rotinas jurídicas.
+Uma solução criada para centralizar informações, melhorar processos internos e aumentar produtividade através da digitalização das rotinas jurídicas.
 
 ### Principais recursos:
 
@@ -96,9 +97,9 @@ Uma solução criada para centralizar informações, melhorar processos internos
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviomoliterno&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviomoliterno&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -108,7 +109,7 @@ Uma solução criada para centralizar informações, melhorar processos internos
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=otaviomoliterno&theme=tokyo-night"/>
 
 </div>
 
@@ -138,3 +139,46 @@ Arquitetura organizada.
 Segurança desde o início.
 Automação sempre que possível.
 Soluções simples para problemas complexos.
+```
+
+---
+
+# Desenvolvimento assistido por IA
+
+Utilizo Inteligência Artificial como ferramenta de apoio ao desenvolvimento para:
+
+- Análise e melhoria de código
+- Refatoração
+- Documentação
+- Criação de soluções
+- Otimização de produtividade
+
+Mantendo sempre revisão técnica, entendimento da solução e qualidade do software desenvolvido.
+
+---
+
+# Minhas contribuições
+
+<div align="center">
+
+<img src="https://github.com/otaviomoliterno/otaviomoliterno/blob/output/github-snake.svg">
+
+</div>
+
+---
+
+# Contato
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github)](https://github.com/otaviomoliterno)
+
+</div>
+
+---
+
+<div align="center">
+
+Obrigado pela visita! 🚀
+
+</div>
