@@ -107,11 +107,9 @@ Uma solução criada para centralizar informações, melhorar processos internos
 
 # Atividade
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=otaviomoliterno&theme=tokyo-night"/>
-
-</div>
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/otaviomoliterno/otaviomoliterno/output/github-snake.svg">
+</p>
 
 ---
 
